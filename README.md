@@ -1,7 +1,5 @@
 ![Header](header.png "Header")
 
----
-
 :wave: Hi, I am Nic from 🇿🇦. I am the maintainer of [Muffinz](https://muffinz.online)
 
 :lips: I speak these languages and more:
