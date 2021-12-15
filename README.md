@@ -2,7 +2,7 @@
 
 ---
 
-:wave: Hi, I am Nic from 🇿🇦. I am the maintainer of [Muffinz](https://muffinz.online)
+:wave: Hi, I am Nic from 🇿🇦. I am the maintainer of [Fryz](https://fryz.online)
 
 :lips: I speak these languages and more:
 
