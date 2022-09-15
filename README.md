@@ -11,7 +11,7 @@
 * 2013 - Discovered Android App Development & learnt Java, multi-threading and network programming.
 * 2015 - Tried to build desktop apps using [XULRunner](https://g.co/kgs/eBoqFJ) and [Visual Studio](https://g.co/kgs/qa7xbW)
 * 2018 - Learnt SVG
-* 2019 - Learnt C programming, Go, POSIX threads, data structures, Algorithms, OOP design patterns, bash scripting, Arduino, Raspberrypi and started using Fedora Linux as my primary OS
+* 2019 - Learnt C programming, Go, POSIX threads, data structures, Algorithms, OOP design patterns, bash scripting, Arduino, Raspberrypi, Makefile and started using Fedora Linux as my primary OS
 * 2022 - Learnt Kotlin & Perl
 
 
