@@ -1,18 +1,43 @@
-![Header](header.png "Header")
 
----
+:wave: Hi, I am Nic a self-taught software developer. For the years I have been active I have built websites for clients and also have tried to develop many Apps & business ideas.
 
-:wave: Hi, I am Nic from 🇿🇦. I am the maintainer of [Fryz](https://fryz.online)
+:writing_hand:  Timeline:
+* 1997 - Started playing computer games such as [JumpStart Kindergarten](https://g.co/kgs/NH6Fww) on a Windows 95 machine.
+* 2004 - Discovered Photoshop, [Fruity Loops](https://www.image-line.com/fl-studio/) & [Cubase](https://g.co/kgs/vMghGq)
+* 2005 - Introduction to Java but never understood anything
+* 2008 - Built and hosted my first website using [EZGenerator WYSIWYG editor](http://www.ezgenerator.com/)
+* 2009 - Discovered HTML, CSS, JavaScript, PHP, MySQL & Python.
+* 2012 - PHP & MySQL started making sense (building CRUD apps easily)
+* 2013 - Discovered Android App Development & learnt Java, multi-threading and network programming.
+* 2015 - Tried to build desktop apps using [XULRunner](https://g.co/kgs/eBoqFJ) and [Visual Studio](https://g.co/kgs/qa7xbW)
+* 2018 - Learnt SVG
+* 2019 - Learnt C programming, Go, POSIX threads, data structures, Algorithms, OOP design patterns, bash scripting, Arduino, Raspberrypi and started using Fedora Linux as my primary OS
+* 2022 - Learnt Kotlin & Perl
 
-:lips: I speak these languages and more:
 
-![](https://img.shields.io/badge/Lang-C-red?logo=c&logoColor=white) ![](https://img.shields.io/badge/Lang-CSS3-red?logo=css3&logoColor=white) ![](https://img.shields.io/badge/Lang-Java-red?logo=java&logoColor=white) ![](https://img.shields.io/badge/Lang-Python-red?logo=python&logoColor=white) ![](https://img.shields.io/badge/Lang-Go-red?logo=go&logoColor=white) ![](https://img.shields.io/badge/Lang-JavaScript-red?logo=javascript&logoColor=white) ![](https://img.shields.io/badge/Lang-Sass-red?logo=sass&logoColor=white) ![](https://img.shields.io/badge/Lang-HTML5-red?logo=html5&logoColor=white) ![](https://img.shields.io/badge/Lang-Bash%20Script-red?logo=gnu%20bash&logoColor=white) ![](https://img.shields.io/badge/Lang-PHP-red?logo=php&logoColor=white) ![](https://img.shields.io/badge/Lang-Perl-red?logo=perl&logoColor=white) ![](https://img.shields.io/badge/Lang-Kotlin-red?logo=kotlin&logoColor=white)
 
-:floppy_disk: Here is a list of tools I use:
+:lips: I speak most of these languages fluently:
 
-![](https://img.shields.io/badge/OS-Fedora%2C%20Linux-lightgrey?logo=linux&logoColor=white) ![](https://img.shields.io/badge/Code%20Editor-Vim-lightgrey?logo=vim&logoColor=white) ![](https://img.shields.io/badge/Code%20Editor-VS%20Code-lightgrey?logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/SVG%20Editor-Inkscape-lightgrey?logo=inkscape&logoColor=white) ![](https://img.shields.io/badge/Markdown%20Editor-Typora-lightgrey?logo=markdown&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,php,jquery,java,go,c,js,html,css,py,sass,svg,perl,md)](https://skillicons.dev)
 
-*Photo by **[Markus Spiske](https://www.pexels.com/@markusspiske?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/internet-technology-computer-display-360591/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
+
+
+:floppy_disk: I use these tools professionally and for fun:
+
+[![My Tools](https://skillicons.dev/icons?i=androidstudio,arduino,bash,blender,cmake,gcp,git,firebase,github,gradle,linux,mysql,raspberrypi,redis,sqlite,sketchup,vim,vscode)](https://skillicons.dev)
+
+
+### Here are some of the books I have read:
+- [Data Structures Using C](https://g.co/kgs/qEWRPA)
+- [Beginning Perl](https://g.co/kgs/VBBPqW)
+- [Java Design Patterns](https://g.co/kgs/yrzcSs)
+- [The C Programming Language. 2nd Edition](https://g.co/kgs/SdTqhA)
+- [Beginning Java Programming: The Object-Oriented Approach](https://g.co/kgs/h4Hw7a)
+- [Pro PHP and JQuery](https://g.co/kgs/4kGU6N)
+- [Beginning PHP and MySQL: From Novice to Professional](https://g.co/kgs/awfhUS)
+- [Hands-On Network Programming with C: Learn Socket Programming in C and Write Secure and Optimized Network Code](https://g.co/kgs/HW7jMX)
+- [Beginning C, Fifth Edition](https://www.oreilly.com/library/view/beginning-c-fifth/9781430248811/)
+[TCP/IP sockets in C](https://g.co/kgs/qdECzm)
 
 <!---
 nic3point0/nic3point0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
