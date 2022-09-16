@@ -1,5 +1,5 @@
 
-:wave: Hi, I am a self-taught software developer and I write code mostly with C and C influenced programming languages.
+:wave: Hi, I am a self-taught software developer and I write code mostly in C and C influenced programming languages.
 
 :writing_hand:  Timeline:
 * 1997 - Started playing computer games such as [JumpStart Kindergarten](https://g.co/kgs/NH6Fww) on a Windows 95 machine.
