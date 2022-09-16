@@ -1,5 +1,5 @@
 
-:wave: Hi, I am Nic a self-taught software developer. For the years I have been active I have built websites for clients and also have tried to develop many Apps & business ideas.
+:wave: Hi, I am a self-taught software developer and I write code mostly with C and C influenced programming languages.
 
 :writing_hand:  Timeline:
 * 1997 - Started playing computer games such as [JumpStart Kindergarten](https://g.co/kgs/NH6Fww) on a Windows 95 machine.
